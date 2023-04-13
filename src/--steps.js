@@ -8,3 +8,5 @@
 // 8.Login.jsx import from getAuth firebase
 // 9.create const auth = getAuth(app)
 // 10.create a google provider import googleAuthProvider set
+// 11.use googleInWithSingup and provider
+//12.active sign (google,facebook.etc)
