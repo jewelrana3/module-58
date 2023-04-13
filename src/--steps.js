@@ -3,3 +3,8 @@
 // 3.register app
 // 4.instail firebase : npm install firebase
 // 5.add config file to your project
+// 6.DENGER:not pulish git hub page firebase data
+// 7.export app from the firebase.config.js file .export defalut app
+// 8.Login.jsx import from getAuth firebase
+// 9.create const auth = getAuth(app)
+// 10.create a google provider import googleAuthProvider set
